@@ -25,18 +25,18 @@ Basicamente es un mecanismo central que permite la ejecuci√≥n de operaciones as√
 ## PostMan Test
 
 Getting all tasks:
-<img width="530" height="715" alt="image" src="https://github.com/user-attachments/assets/7e493caf-c5ee-4d14-af65-3ebcf8ff40ce" />
+<img width="530" height="715" alt="image" src="https://github.com/user-attachments/assets/7e493caf-c5ee-4d14-af65-3ebcf8ff40ce" /> <br>
 
 
 
 Getting tasks by id:
-<img width="439" height="378" alt="image" src="https://github.com/user-attachments/assets/4ca108ac-dd2e-4f33-9ef2-59c43ab51f41" />
+<img width="439" height="378" alt="image" src="https://github.com/user-attachments/assets/4ca108ac-dd2e-4f33-9ef2-59c43ab51f41" /><br>
 
 
 
 Postting a taks:
-<img width="648" height="520" alt="image" src="https://github.com/user-attachments/assets/e78cc488-5df8-4ebb-a0fd-9c442e6013d9" />
-<img width="532" height="887" alt="image" src="https://github.com/user-attachments/assets/70ab058d-b1ef-4f53-998d-ce9a69902e3a" />
+<img width="648" height="520" alt="image" src="https://github.com/user-attachments/assets/e78cc488-5df8-4ebb-a0fd-9c442e6013d9" /><br>
+<img width="532" height="887" alt="image" src="https://github.com/user-attachments/assets/70ab058d-b1ef-4f53-998d-ce9a69902e3a" /><br>
 
 
 
