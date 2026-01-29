@@ -27,8 +27,12 @@ Basicamente es un mecanismo central que permite la ejecuci√≥n de operaciones as√
 Getting all tasks:
 <img width="530" height="715" alt="image" src="https://github.com/user-attachments/assets/7e493caf-c5ee-4d14-af65-3ebcf8ff40ce" />
 
+
+
 Getting tasks by id:
 <img width="439" height="378" alt="image" src="https://github.com/user-attachments/assets/4ca108ac-dd2e-4f33-9ef2-59c43ab51f41" />
+
+
 
 Postting a taks:
 <img width="648" height="520" alt="image" src="https://github.com/user-attachments/assets/e78cc488-5df8-4ebb-a0fd-9c442e6013d9" />
