@@ -1,6 +1,11 @@
 import express from 'express';
-import { pool } from '../db.js';
-import { getTasks, getTask, createTask, deleteTask, updateTask } from '../controllers/tasks.controllers.js';
+import { 
+    getTasks,
+    getTask,
+    createTask, 
+    deleteTask,
+    updateTask
+} from '../controllers/tasks.controllers.js';
 
 const router = express.Router();
 
