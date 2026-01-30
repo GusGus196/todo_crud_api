@@ -10,7 +10,7 @@ export const getTasks = async(req, res) => {
 
 export const getTask = async (req, res) => {
     const { id } = req.params;
-    const { rows } = await pool.query(`SELECT * FROM TASKS WHERE ID = ${id}`);
+    const { rows } = await pool.query(`SELECT * FROM TASKS WHERE ID = $1`, [id]);
 
     if (rows.length === 0) {
         return res.sendStatus(404).json({ message: 'Task not found' });
